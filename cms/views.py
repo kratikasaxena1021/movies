@@ -6,4 +6,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Hello, kratika. You're at the city index.")
+    return HttpResponse("Hello, kratika. You're at the cms index.")
